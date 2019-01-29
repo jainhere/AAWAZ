@@ -1,7 +1,7 @@
 # AAWAZ-
 ## The Voice Assistant
 AAWAZ is an python based application which can perform the following tasks with the help of your voice command:-
-a) For Entertainment:-
+<br>a) For Entertainment:-
 I) It can play any video from Youtube.
 II) It can play a song or video from local storage.
 III) It can even tell you a joke.
